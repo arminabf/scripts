@@ -1,0 +1,3 @@
+[submodule "dict.cc.py"]
+	path = dict.cc.py
+	url = git@github.com:rbaron/dict.cc.py.git
