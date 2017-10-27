@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "$@" | deepl -s de -t en
