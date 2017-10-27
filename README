@@ -1,0 +1,11 @@
+# Install
+
+Install modules using pip. Please note that deepl-cli requires pip3.
+
+> cd <module>
+> sudo pip install . 
+
+or
+
+> sudo pip3 install . 
+
