@@ -1,3 +1,6 @@
 [submodule "dict.cc.py"]
 	path = dict.cc.py
 	url = git@github.com:rbaron/dict.cc.py.git
+[submodule "deepl-cli"]
+	path = deepl-cli
+	url = https://github.com/freundTech/deepl-cli.git
